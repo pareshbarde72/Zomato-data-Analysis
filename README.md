@@ -22,6 +22,7 @@ These suggest that client prefer orders in person at restaurant, but prefer onli
 
 
 Tools used:
+
 Python
 Jupyter Notebook
 EDA 
