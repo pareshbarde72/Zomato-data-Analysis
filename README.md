@@ -1,33 +1,46 @@
-***# Zomato-data-Analysis***
+***📊 Zomato Restaurant Data Analysis (EDA)***
+Project Overview
 
-1)Performed EDA on the Zomato restaurant dataset to uncover insights on ratings, pricing, locations, and cuisines. The analysis reveals customer behavior and food industry trends, compares ratings across restaurant types, and studies preferences for online vs offline food ordering using real-world data.
+This project performs Exploratory Data Analysis (EDA) on the Zomato restaurant dataset to derive actionable insights into restaurant performance, customer preferences, and food industry trends. Using real-world data, the analysis focuses on understanding how factors such as restaurant type, pricing, ratings, votes, and ordering modes influence customer behavior.
 
-2)Calculated Reviews based on types of Restuarant and Customer prefernces.
+Objectives
 
-3)Calculated Votes based on Restuarant types:
+Analyze restaurant ratings across different restaurant categories
 
-A)Buffet
-B)Cafes
-c)Dinning
-d)other  are the types of restuarant where customer prefernce is been calculated based on customer voting 
+Understand customer voting patterns and review distribution
 
-4)Calculated Average customer orders cost for two peoples
+Study customer preferences for online vs offline food ordering
 
-5)Calculated rating based on resturant vs cafes
+Evaluate pricing trends and average order cost for two people
 
-6)Calculated the resturant rating based on offline vs online mode in which offline mode is most prefer types 
+Identify differences in ordering behavior between restaurants and cafés
 
-7)Dinning restaurant primarily accept offline orders,whereas cafes primarily recieve online orders. 
+Key Analysis & Insights
 
-These suggest that client prefer orders in person at restaurant, but prefer online ordering from the cafes
+Conducted in-depth EDA to explore relationships between ratings, votes, pricing, locations, and cuisines
 
+Analyzed reviews and votes based on restaurant types such as Buffet, Cafés, Dining, and Others
 
-***Tools used:***
+Calculated the average cost for two people, helping identify pricing patterns across restaurant categories
+
+Compared ratings between restaurants and cafés, highlighting customer satisfaction trends
+
+Evaluated restaurant ratings based on online and offline ordering modes
+
+Identified that dining restaurants primarily receive offline orders, while cafés attract more online orders
+
+Concluded that customers prefer in-person dining at restaurants, but favor online ordering for cafés, reflecting distinct consumption behavior
+
+Tools & Technologies Used
 
 Python
 
 Jupyter Notebook
 
-EDA 
+Exploratory Data Analysis (EDA)
 
-Data Pre-processing 
+Data Pre-processing & Cleaning
+
+Outcome
+
+This project demonstrates practical experience in data cleaning, exploratory analysis, and business-oriented insight generation. The findings provide valuable understanding of customer behavior in the food service industry and showcase the ability to translate raw data into meaningful conclusions.
