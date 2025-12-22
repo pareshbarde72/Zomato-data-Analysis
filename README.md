@@ -19,3 +19,10 @@ d)other  are the types of restuarant where customer prefernce is been calculated
 7)Dinning restaurant primarily accept offline orders,whereas cafes primarily recieve online orders. 
 
 These suggest that client prefer orders in person at restaurant, but prefer online ordering from the cafes
+
+
+Tools used:
+Python
+Jupyter Notebook
+EDA 
+Data Pre-processing 
