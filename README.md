@@ -1,9 +1,9 @@
 A) ***📊 Zomato Restaurant Data Analysis (EDA)***
-Project Overview
+Project Overview:
 
 This project performs Exploratory Data Analysis (EDA) on the Zomato restaurant dataset to derive actionable insights into restaurant performance, customer preferences, and food industry trends. Using real-world data, the analysis focuses on understanding how factors such as restaurant type, pricing, ratings, votes, and ordering modes influence customer behavior.
 
-B)***Objectives***
+B)***Objectives***:
 
 Analyze restaurant ratings across different restaurant categories
 
@@ -15,7 +15,7 @@ Evaluate pricing trends and average order cost for two people
 
 Identify differences in ordering behavior between restaurants and cafés
 
-C)***Key Analysis & Insights***
+C)***Key Analysis & Insights***:
 
 Conducted in-depth EDA to explore relationships between ratings, votes, pricing, locations, and cuisines
 
@@ -31,7 +31,7 @@ Identified that dining restaurants primarily receive offline orders, while café
 
 Concluded that customers prefer in-person dining at restaurants, but favor online ordering for cafés, reflecting distinct consumption behavior
 
-D)***Tools & Technologies Used***
+D)***Tools & Technologies Used***:
 
 Python
 
