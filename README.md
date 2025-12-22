@@ -43,4 +43,4 @@ Data Pre-processing & Cleaning
 
 E)***Outcome***
 
-This project demonstrates practical experience in data cleaning, exploratory analysis, and business-oriented insight generation. The findings provide valuable understanding of customer behavior in the food service industry and showcase the ability to translate raw data into meaningful conclusions.
+This project demonstrates practical experience in data cleaning, exploratory analysis, and business-oriented insight generation. The findings provide valuable understanding of customer behavior in the food service industry and showcase the ability to translate raw data into meaningful conclusions and Insights
