@@ -1,4 +1,4 @@
-# Zomato-data-Analysis
+***# Zomato-data-Analysis***
 1)Performed EDA on the Zomato restaurant dataset to uncover insights on ratings, pricing, locations, and cuisines. The analysis reveals customer behavior and food industry trends, compares ratings across restaurant types, and studies preferences for online vs offline food ordering using real-world data.
 
 2)Calculated Reviews based on types of Restuarant and Customer prefernces.
@@ -21,7 +21,7 @@ d)other  are the types of restuarant where customer prefernce is been calculated
 These suggest that client prefer orders in person at restaurant, but prefer online ordering from the cafes
 
 
-Tools used:
+***Tools used:***
 
 Python
 
